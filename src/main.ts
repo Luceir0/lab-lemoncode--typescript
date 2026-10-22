@@ -1,0 +1,18 @@
+// import "./o02-funciones";
+// import "./o03-destructuring";
+// import "./o04-opcionales";
+// import "./o05-arrays";
+// import "./o06-carrito";
+// import "./o07-pureza";
+// import "./o08-uniones-genericos";
+// import "./o09-utilidad";
+// import "./o10-closures";
+// import "./o11-immer";
+// import "./p03-agrupar";
+// import "./p04-ordenar";
+// import "./p06-map-filter";
+// import "./d05-reduce";
+// import "./p02-historial";
+// import "./p05-unknown";
+// import "./d02-pagos";
+import "./d03-inmutabilidad";
